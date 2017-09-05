@@ -4,3 +4,4 @@ This code provides a simple script to setup a new ubuntu 16.04 installation with
 
 Code is WIP.
 
+To run, use ./setup.sh
